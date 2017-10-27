@@ -20,13 +20,13 @@ public:
 
     Ponto2d();
 
-    float get_y  () const;
+    float y() const;
 
-    void  set_y  (float _y);
+    void  y(float _y);
 
-    float get_x  () const;
+    float x() const;
 
-    void  set_x  (float _x);
+    void  x(float _x);
 
     Ponto2d operator+ (Ponto2d ponto);
 
