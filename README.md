@@ -11,8 +11,7 @@ Continuação do projeto anterior [cansiPonto2d](https://github.com/lopesivan/ca
 
 ## Clion
 
-Eu uso a IDE CLlion, que tem me atendido muito bem, apesar de nunca abandonar o meu editor preferido , o VIM e no caso sua variante NVIM.
-
+Eu uso a IDE CLlion, que tem me atendido muito bem, apesar de nunca abandonar o meu editor preferido , o [VIM](http://www.vim.org) e no caso sua variante [NEOVIM](https://github.com/neovim/neovim).
 
 ## Sobre mim
 

@@ -6,8 +6,8 @@ int main()
     Ponto2d A (2, 4);
     Ponto2d B;
 
-    B.x(3);
-    B.y(4);
+    B.x (3);
+    B.y (4);
 
     B.x = 4;
 

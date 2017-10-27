@@ -22,11 +22,11 @@ public:
 
     float y() const;
 
-    void  y(float _y);
+    void  y (float _y);
 
     float x() const;
 
-    void  x(float _x);
+    void  x (float _x);
 
     Ponto2d operator+ (Ponto2d ponto);
 

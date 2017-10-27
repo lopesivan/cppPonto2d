@@ -11,7 +11,7 @@ float Ponto2d::x() const
     return _x;
 }
 
-void Ponto2d::x(float _x)
+void Ponto2d::x (float _x)
 {
     Ponto2d::_x = _x;
 }
@@ -21,7 +21,7 @@ float Ponto2d::y() const
     return _y;
 }
 
-void Ponto2d::y(float _y)
+void Ponto2d::y (float _y)
 {
     Ponto2d::_y = _y;
 }
