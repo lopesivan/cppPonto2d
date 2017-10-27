@@ -7,7 +7,8 @@ Objetivo do projeto é criar pequenos *Snippets*  de  código com alguns padrõe
 ## Descrição
 Esse programa cria uma classe chamada **Ponto2d**.
 
-Continuação do projeto anterior (cansiPonto2d)[https://github.com/lopesivan/cansiPonto2d]
+Continuação do projeto anterior [cansiPonto2d](https://github.com/lopesivan/cansiPonto2d)
+
 ## Clion
 
 Eu uso a IDE CLlion,  que tem me atendido muito bem,  apesar de  eu nunca abandonar o meu editor preferido , o VIM e no caso sua variante NVIM.
