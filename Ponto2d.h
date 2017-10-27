@@ -8,14 +8,15 @@
 
 #include <ostream>
 
-class Ponto2d {
+class Ponto2d
+{
 
 private:
     float _x;
     float _y;
 
 public:
-    Ponto2d(float _x, float _y);
+    Ponto2d (float _x, float _y);
 
     Ponto2d();
 
@@ -27,10 +28,10 @@ public:
 
     void  set_x  (float _x);
 
-    Ponto2d operator+(Ponto2d ponto);
+    Ponto2d operator+ (Ponto2d ponto);
 
 public:
-    friend std::ostream &operator<<(std::ostream &os, const Ponto2d &d);
+    friend std::ostream &operator<< (std::ostream &os, const Ponto2d &d);
 };
 
 
