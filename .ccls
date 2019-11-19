@@ -2,3 +2,4 @@ clang
 %h -x c++-header
 -I./inc
 -I.
+-std=gnu++11
