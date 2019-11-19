@@ -12,5 +12,6 @@ int main()
     std::cout << "A     : " << A << "\n";
     std::cout << "B     : " << B << "\n";
     std::cout << "A + B : " << A+B << "\n";
+
     return 0;
 }
